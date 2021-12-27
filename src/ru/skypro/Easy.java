@@ -1,6 +1,6 @@
 package ru.skypro;
 
-public class Easy {
+class Main {
 
     private static final Employee[] employees = new Employee[10];
 
