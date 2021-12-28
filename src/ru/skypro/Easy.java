@@ -7,6 +7,9 @@ class Main {
     public static void main(String[] args) {
         addEmployee(new Employee("Иван", "Иванов", "Иванович", 1, 100_000f));
         addEmployee(new Employee("Иван1", "Иванов1", "Иванович", 1, 200_000f));
+        addEmployee(new Employee("Иван2", "Иванов2", "Иванович", 1, 300_000f));
+        addEmployee(new Employee("Иван3", "Иванов3", "Иванович", 1, 500_000f));
+        addEmployee(new Employee("Иван4", "Иванов4", "Иванович", 1, 800_000f));
 
 
         printEmployees();
